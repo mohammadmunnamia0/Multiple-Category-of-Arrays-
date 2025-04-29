@@ -85,3 +85,10 @@ python fixed_stack_dynamic.py
 python stack_dynamic.py
 python fixed_heap_dynamic.py
 python heap_dynamic.py
+
+### JavaScript 
+cd arrays/javascript
+node fixed_stack_dynamic.js
+node stack_dynamic.js
+node fixed_heap_dynamic.js
+node heap_dynamic.js
